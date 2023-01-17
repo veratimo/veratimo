@@ -3,4 +3,4 @@
 <br />
 
 
-I am a web developer and tech enthusiast. 
+<p align="center">I am a web developer and tech enthusiast.</p> 
