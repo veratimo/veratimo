@@ -1,4 +1,4 @@
-<p align="center"><a href=""><img alt="Hello World, Vera here." src="./assets/helloWorld.png" /></a></p>
+<p align="center"><a href=""><img alt="Hello World, Vera here." src="./assets/HelloWorld.png" /></a></p>
 
 <br />
 
