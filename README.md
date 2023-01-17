@@ -1,3 +1,3 @@
 
-![This is an image](https://veratimo.com/assets/HelloWorld.png)
+![This is an image](https://github.com/veratimo/veratimo/assets/HelloWorld.png)
 
