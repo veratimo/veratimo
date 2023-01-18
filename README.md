@@ -3,4 +3,4 @@
 <p align="center" font-family="">I am a web developer and tech enthusiast from Padova, Italy.🇮🇹</p> 
 
 <p>You can find me here:</p>
-<a href="https://www.reddit.com/user/veratimo" <img alt="Reddit logo" src="./assets/reddit-logo.png" /> 
+<p><a href="https://www.reddit.com/user/veratimo" <img height="45px" width="auto" alt="Reddit logo" src="./assets/reddit-logo.png" /></a></p> 
