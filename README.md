@@ -1,4 +1,4 @@
-<p align="center"><a href=""><img alt="Hello World, Vera here." src="./assets/HelloWorld.png" /></a></p>
+<p align="center"><a href=""><img alt="" src="./assets/helloWorld2.png" /></a></p>
 </br>
 <p align="center" font-family="">I am a web developer from Padova, Italy.🇮🇹</p> 
 
