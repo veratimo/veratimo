@@ -1,5 +1,5 @@
-<p align="center" font-family="">Hello everyone!👋🏼 Thank you for being here.☀️</p> 
-<br>
+<p align="center" font-family="">Hello there!👋🏼 </p> 
+<p align="center" font-family="">Thank you for being here.☀️</p> 
 <p align="center" font-family="">I am a web developer from Padova, Italy.🇮🇹</p> 
 
 <p>You can find me also here:</p>
