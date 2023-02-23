@@ -1,5 +1,5 @@
-<p align="center"><a href=""><img alt="" src="./assets/helloWorld2.png" /></a></p>
-</br>
+<p align="center" font-family="">Hello everyone!👋🏼 Thank you for being here.☀️</p> 
+<br>
 <p align="center" font-family="">I am a web developer from Padova, Italy.🇮🇹</p> 
 
 <p>You can find me also here:</p>
